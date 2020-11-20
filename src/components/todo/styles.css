@@ -1,0 +1,14 @@
+.todo{
+	border: 2px solid #28c4eb;
+	border-radius: 5px;
+	width: 90%;
+	margin: 0 auto;
+	min-height: 200px;
+	overflow-wrap: normal;
+	box-shadow: inset 1px 3px 20px -5px #28c4eb;
+
+}
+
+
+
+

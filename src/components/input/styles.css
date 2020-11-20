@@ -1,0 +1,33 @@
+.add-new{
+	display: flex;
+	align-items: center;
+	margin-bottom: 5%;
+}
+.add-new-icon img{
+	width: 50px;
+}
+.add-new-todo-input{
+	width: 250px;
+	height: 34px;
+	margin-left: 3%;
+	border-radius: 5px;
+	border-color: rgb(236, 168, 233);
+	margin-bottom: 2%;
+	padding-left: 5px;
+}
+
+.add-new-todo-input::placeholder{
+	color: #4cbea6;
+}
+
+.add-new-legend{
+	margin-right: 1%;
+}
+
+.add-new-todo-button{
+height: 45px;
+border-radius: 5px;
+background-color: rgb(228, 146, 228);
+margin-left: 2%;
+align-self: start;
+}

@@ -1,0 +1,32 @@
+#todo-li-fly-img{
+	width: 30px;
+}
+
+.todo-li-fly{
+	margin-right: 30px;
+}
+
+.todo-trash-button{
+	margin-right: 40px;
+	background-color: #28c4eb;
+	border-radius: 5px;
+}
+
+.todo-trash-button img{
+width: 20px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+.todo-li{
+	display: flex;
+	justify-content: space-between;
+}
+
+.todo-li li{
+	display: flex;
+	align-items: center;
+	
+}

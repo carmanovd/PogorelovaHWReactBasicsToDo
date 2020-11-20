@@ -1,0 +1,11 @@
+.header{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 45px;
+}
+
+.header-icon img{
+	width: 115px;
+}
